@@ -1,0 +1,25 @@
+{
+  "Name": "Stiches 2.0",
+  "Model": "PathToModel",
+  "id": 1,
+  "Abilities": [
+    {
+      "cooldown": "6 sec cooldown",
+      "manaCost": "5% of base mana",
+      "description": "Brings enemy in front",
+      "icon": "hook_icon",
+      "id": 8056,
+      "name": "Hook",
+      "range": "25 mt range"
+    },
+    {
+      "cooldown": "2 sec cooldown",
+      "manaCost": "5% of base mana",
+      "description": "Hits the floor in a cone shape",
+      "icon": "hook_icon",
+      "id": 8056,
+      "name": "Slam",
+      "range": "25 mt range"
+    }
+  ]
+}
